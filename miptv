@@ -1,0 +1,10 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="mitpv.js" type="text/javascript"></script>
+<title>miTPV</title>
+</head>
+<body>
+<h1>miTPV</h1>
+</body>
+</html>
